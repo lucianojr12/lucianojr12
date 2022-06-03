@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Meu nome é  Luciano Junior, tenho 27 anos, estudante  de Sistemas de informação.
-e tambem estou fazendo curso  Dev-Club  Front End  aonde estudo sobre : HTML, CSS, JavaScript, React.
+Meu nome é  Luciano Junior, tenho 27 anos, sou esstudante  de Sistemas des informação.
+ tambem estou fazendo curso  Dev-Club  Front End  aonde estudo sobre : HTML, CSS, JavaScript, React.
 Meu Foco é desenvolvimento Front-End.
 
 <!--
