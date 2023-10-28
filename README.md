@@ -1,8 +1,6 @@
 ### Olá, Tudo bem ? 👋
 
-Meu nome é  Luciano Junior, tenho 27 anos, sou estudante  de Sistemas des informação.
- tambem estou fazendo curso  Dev-Club  Front End  aonde estudo sobre : HTML, CSS, JavaScript, React.
-Meu Foco é desenvolvimento Front-End.
+Meu nome é  Luciano Junior, tenho 28 anos, sou estudante  de Sistemas des informação.
 
 <!--
 **lucianojr12/lucianojr12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
